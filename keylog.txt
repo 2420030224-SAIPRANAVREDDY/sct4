@@ -1,0 +1,142 @@
+2026-08-06 09:30:19,042: Special key pressed: Key.ctrl_l
+2026-08-06 09:30:19,298: Key pressed: 
+2026-08-06 09:30:20,485: Special key pressed: Key.enter
+2026-08-06 09:30:34,415: Key pressed: p
+2026-08-06 09:30:34,767: Key pressed: y
+2026-08-06 09:30:35,274: Special key pressed: Key.space
+2026-08-06 09:30:35,849: Key pressed: t
+2026-08-06 09:30:36,240: Key pressed: a
+2026-08-06 09:30:37,207: Key pressed: s
+2026-08-06 09:30:37,568: Key pressed: k
+2026-08-06 09:30:38,878: Key pressed: 4
+2026-08-06 09:30:40,184: Key pressed: .
+2026-08-06 09:30:41,223: Key pressed: p
+2026-08-06 09:30:41,448: Key pressed: y
+2026-08-06 09:30:57,331: Special key pressed: Key.enter
+2026-08-06 09:31:03,539: Special key pressed: Key.enter
+2026-08-06 09:31:09,985: Key pressed: h
+2026-08-06 09:31:09,986: Key pressed: h
+2026-08-06 09:31:10,384: Key pressed: e
+2026-08-06 09:31:10,877: Key pressed: l
+2026-08-06 09:31:10,878: Key pressed: l
+2026-08-06 09:31:11,035: Key pressed: l
+2026-08-06 09:31:11,037: Key pressed: l
+2026-08-06 09:31:11,227: Key pressed: o
+2026-08-06 09:31:11,625: Special key pressed: Key.space
+2026-08-06 09:31:11,625: Special key pressed: Key.space
+2026-08-06 09:31:12,030: Key pressed: w
+2026-08-06 09:31:12,030: Key pressed: w
+2026-08-06 09:31:12,313: Key pressed: r
+2026-08-06 09:31:12,313: Key pressed: r
+2026-08-06 09:31:13,120: Key pressed: l
+2026-08-06 09:31:13,121: Key pressed: l
+2026-08-06 09:31:13,876: Key pressed: d
+2026-08-06 09:31:13,877: Key pressed: d
+2026-08-06 09:31:14,063: Key pressed: s
+2026-08-06 09:31:14,063: Key pressed: s
+2026-08-06 09:31:14,225: Key pressed: s
+2026-08-06 09:31:14,225: Key pressed: s
+2026-08-06 09:31:14,425: Key pressed: g
+2026-08-06 09:31:25,936: Special key pressed: Key.esc
+2026-08-06 09:31:25,937: Special key pressed: Key.esc
+2026-08-13 08:57:31,781: Key pressed: p
+2026-08-13 08:57:32,139: Key pressed: y
+2026-08-13 08:57:32,403: Special key pressed: Key.space
+2026-08-13 08:57:33,291: Key pressed: t
+2026-08-13 08:57:33,526: Key pressed: a
+2026-08-13 08:57:33,790: Key pressed: s
+2026-08-13 08:57:34,001: Key pressed: k
+2026-08-13 08:57:34,330: Key pressed: 4
+2026-08-13 08:57:34,637: Key pressed: .
+2026-08-13 08:57:34,864: Key pressed: p
+2026-08-13 08:57:35,175: Key pressed: y
+2026-08-13 08:57:35,462: Special key pressed: Key.enter
+2026-08-13 08:57:39,202: Special key pressed: Key.print_screen
+2026-08-13 08:57:39,202: Special key pressed: Key.print_screen
+2026-08-13 08:57:52,103: Special key pressed: Key.ctrl_l
+2026-08-13 08:57:52,103: Special key pressed: Key.ctrl_l
+2026-08-13 08:57:52,595: Key pressed: 
+2026-08-13 08:57:52,596: Key pressed: 
+2026-08-13 08:57:54,646: Special key pressed: Key.enter
+2026-08-13 08:58:13,002: Special key pressed: Key.backspace
+2026-08-13 08:58:13,002: Special key pressed: Key.backspace
+2026-08-13 08:58:13,371: Key pressed: t
+2026-08-13 08:58:13,372: Key pressed: t
+2026-08-13 08:58:13,516: Key pressed: a
+2026-08-13 08:58:13,516: Key pressed: a
+2026-08-13 08:58:13,782: Key pressed: s
+2026-08-13 08:58:13,782: Key pressed: s
+2026-08-13 08:58:13,926: Key pressed: k
+2026-08-13 08:58:13,926: Key pressed: k
+2026-08-13 08:58:14,320: Key pressed: 4
+2026-08-13 08:58:14,320: Key pressed: 4
+2026-08-13 08:58:14,649: Special key pressed: Key.shift_r
+2026-08-13 08:58:14,649: Special key pressed: Key.shift_r
+2026-08-13 08:58:14,889: Key pressed: (
+2026-08-13 08:58:14,889: Key pressed: (
+2026-08-13 08:58:15,343: Key pressed: 1
+2026-08-13 08:58:15,849: Special key pressed: Key.shift_r
+2026-08-13 08:58:15,849: Special key pressed: Key.shift_r
+2026-08-13 08:58:16,296: Key pressed: )
+2026-08-13 08:58:16,296: Key pressed: )
+2026-08-13 08:58:16,627: Special key pressed: Key.enter
+2026-08-13 08:58:16,627: Special key pressed: Key.enter
+2026-08-13 08:58:45,392: Key pressed: g
+2026-08-13 08:58:45,682: Key pressed: i
+2026-08-13 08:58:45,683: Key pressed: i
+2026-08-13 08:58:45,968: Key pressed: t
+2026-08-13 08:58:45,969: Key pressed: t
+2026-08-13 08:58:46,235: Key pressed: h
+2026-08-13 08:58:46,236: Key pressed: h
+2026-08-13 08:58:46,859: Key pressed: u
+2026-08-13 08:58:46,859: Key pressed: u
+2026-08-13 08:58:47,191: Key pressed: b
+2026-08-13 08:58:47,192: Key pressed: b
+2026-08-13 08:58:48,765: Special key pressed: Key.enter
+2026-08-13 08:59:56,601: Special key pressed: Key.print_screen
+2026-08-13 08:59:56,601: Special key pressed: Key.print_screen
+2026-08-13 09:00:03,589: Special key pressed: Key.ctrl_l
+2026-08-13 09:00:03,589: Special key pressed: Key.ctrl_l
+2026-08-13 09:00:03,991: Key pressed: 
+2026-08-13 09:00:03,991: Key pressed: 
+2026-08-13 09:00:04,669: Special key pressed: Key.enter
+2026-08-13 09:00:19,823: Special key pressed: Key.backspace
+2026-08-13 09:00:19,823: Special key pressed: Key.backspace
+2026-08-13 09:00:20,125: Key pressed: t
+2026-08-13 09:00:20,125: Key pressed: t
+2026-08-13 09:00:20,645: Special key pressed: Key.backspace
+2026-08-13 09:00:20,646: Special key pressed: Key.backspace
+2026-08-13 09:00:21,339: Key pressed: t
+2026-08-13 09:00:21,340: Key pressed: t
+2026-08-13 09:00:21,498: Key pressed: a
+2026-08-13 09:00:21,499: Key pressed: a
+2026-08-13 09:00:21,724: Key pressed: s
+2026-08-13 09:00:21,724: Key pressed: s
+2026-08-13 09:00:21,876: Key pressed: k
+2026-08-13 09:00:21,876: Key pressed: k
+2026-08-13 09:00:22,321: Key pressed: 4
+2026-08-13 09:00:22,321: Key pressed: 4
+2026-08-13 09:00:22,619: Special key pressed: Key.shift_r
+2026-08-13 09:00:22,619: Special key pressed: Key.shift_r
+2026-08-13 09:00:22,908: Key pressed: (
+2026-08-13 09:00:22,909: Key pressed: (
+2026-08-13 09:00:23,295: Key pressed: 2
+2026-08-13 09:00:23,296: Key pressed: 2
+2026-08-13 09:00:23,645: Special key pressed: Key.shift_r
+2026-08-13 09:00:23,645: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,149: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,149: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,182: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,182: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,214: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,246: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,247: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,279: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,279: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,311: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,344: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,376: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,376: Special key pressed: Key.shift_r
+2026-08-13 09:00:24,406: Key pressed: )
+2026-08-13 09:00:24,763: Special key pressed: Key.enter
+2026-08-13 09:00:24,764: Special key pressed: Key.enter
